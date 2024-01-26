@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Octonauts" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_52);
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_52" data-name="未命名的渐变 52" x1="256" y1="456" x2="256" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e7f0fd" stop-opacity=".85"/>
+      <stop offset=".11" stop-color="#cddcf0" stop-opacity=".87"/>
+      <stop offset=".41" stop-color="#8aaacf" stop-opacity=".93"/>
+      <stop offset=".67" stop-color="#5986b7" stop-opacity=".97"/>
+      <stop offset=".87" stop-color="#3b70a8" stop-opacity=".99"/>
+      <stop offset="1" stop-color="#3068a3"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="M256,104c40.6,0,78.77,15.81,107.48,44.52,28.71,28.71,44.52,66.88,44.52,107.48s-15.81,78.77-44.52,107.48c-28.71,28.71-66.88,44.52-107.48,44.52s-78.77-15.81-107.48-44.52c-28.71-28.71-44.52-66.88-44.52-107.48s15.81-78.77,44.52-107.48c28.71-28.71,66.88-44.52,107.48-44.52M256,56c-110.46,0-200,89.54-200,200s89.54,200,200,200,200-89.54,200-200S366.46,56,256,56h0Z"/>
+</svg>
